@@ -1,0 +1,22 @@
+{
+  "name": "restock-counter",
+  "version": "3.41.0",
+  "description": "Self-hosted multi-store restock counting: phone counts, combined totals, pricing, manager adjustments, history and stats, backups, CSV export, item photos, printable catalogs. EN/中文.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "inventory",
+    "restock",
+    "raspberry-pi",
+    "self-hosted",
+    "nodejs",
+    "pwa",
+    "retail"
+  ],
+  "license": "MIT"
+}

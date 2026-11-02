@@ -1,0 +1,7 @@
+# your data never belongs in git
+data/
+*.json.gz
+backups/
+node_modules/
+.DS_Store
+*.log
